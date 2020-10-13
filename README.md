@@ -135,7 +135,7 @@ Jovem apaixonado por programação e desenvolvimento, Jefferson ferrari é um de
 
 [Portfólio](https://jefferson-calmon.github.io)
 
-[Linkedin](https://www.linkedin.com/in/jefferson-f-b24248191/)
+[Linkedin](https://www.linkedin.com/in/jeffersoncalmon/)
 
 [Instagram](https://instagram.com/jeffz1_)
 
