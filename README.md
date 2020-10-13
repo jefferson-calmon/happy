@@ -1,7 +1,7 @@
 <div align="center">
     <img src="./.github/logo.png" width="75">
     <h1>Happy</h1>
-    <p>Leve felicidade para o mundo</p>
+    <h3>Leve felicidade para o mundo</h3>
     
 <p align="center">
 
@@ -31,16 +31,18 @@
 
 ## :scroll: Sobre o projeto
 
-O Proffy é uma plataforma de estudos online criada durante o Next Level Week #2. O NLW é um evento disponibilizado pela rocketseat que visa levar os devs para um próximo nível.
+O Happy é uma plataforma criada durante o Next Level Week 3.0. Ela tem o objetivo de conectar e incentivar as pessoas irem visitar orfanatos, segundo pessoas que já visitaram, é uma experiência incrível ver a alegria da criançada. 
 
-## :gear: Requisitos
+O NLW é um evento disponibilizado pela rocketseat que visa levar os devs para um próximo nível.
+
+## :gear: Requisitos para rodar localmente
 
 - [Node.js](https://nodejs.org/en/)
 - [Expo](https://docs.expo.io/)
 - [GIT](https://git-scm.com/)
 
 
-## :artificial_satellite: Tecnologias
+<!-- ## :artificial_satellite: Tecnologias
 
 Para desenvolver este projeto utilizamos as seguintes tecnologias:
 
@@ -48,6 +50,10 @@ Para desenvolver este projeto utilizamos as seguintes tecnologias:
     - React Router Dom
 
     - Axios
+
+    - Leaflet
+
+    - MapBox
 
 - NodeJS - Back-End
     - Express
@@ -110,7 +116,7 @@ ou
 
 1. Inicie o projeto com ````npm start``` ou ```yarn start```
 
-1. Caso não abra um página web em seu navegador, acesse ```http://localhost:3000```
+1. Caso não abra um página web em seu navegador, acesse ```http://localhost:3000``` -->
 
 
 ## :thinking: Como contribuir
