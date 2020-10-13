@@ -1,0 +1,73 @@
+#page-map{
+    width: 100vw;
+    height: 100vh;
+
+    position: relative;
+    display: flex;
+}
+
+#page-map aside{
+    width: 26.03550vw;
+    background: linear-gradient(329.54deg, #29B6D1 0%, #00C7C7 100%);
+    padding: 4.73373vw;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+#page-map aside img{
+    width: 3.77692vw;
+    height: 4.26036vw;
+}
+
+#page-map aside h2{
+    font-size: 2.36686vw;
+    font-weight: 800;
+    line-height: 2.48521vw;
+    margin-top: 3.78698vw;
+}
+
+#page-map aside p{
+    line-height: 1.65680vw;
+    margin-top: 1.42012vw;
+    font-size: 1.06509vw;
+}
+
+#page-map footer{
+    display: flex;
+    flex-direction: column;
+
+    line-height: 1.42012vw;
+    font-size: 1.06509vw;
+}
+
+#page-map footer strong{
+    font-weight: 800;
+}
+
+#page-map .create-orphanage{
+    position: absolute;
+    right: 2.36686vw;
+    bottom: 2.36686vw;
+
+    width: 3.78698vw;
+    height: 3.78698vw;
+    background: #15c3d6;
+    border-radius: 1.18343vw;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    transition: 0.2s;
+    z-index: 1000;
+}
+
+#page-map .create-orphanage .icon-plus{
+    font-size: 1.89349vw;
+}
+
+#page-map .create-orphanage:hover{
+    background: #17d6eb;
+}
