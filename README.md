@@ -33,7 +33,7 @@
 
 ## :scroll: Sobre o projeto
 
-O Happy é uma plataforma criada durante o Next Level Week 3.0. Ela tem o objetivo de conectar e incentivar as pessoas irem visitar orfanatos, segundo pessoas que já visitaram, é uma experiência incrível ver a alegria da criançada. 
+O Happy é uma plataforma criada durante o Next Level Week 3.0. Ela é uma aplicação que conecta pessoas à casas de acolhimento institucional para fazer o dia de muitas crianças mais feliz purple_heart
 
 O NLW é um evento disponibilizado pela rocketseat que visa levar os devs para um próximo nível.
 
@@ -44,34 +44,18 @@ O NLW é um evento disponibilizado pela rocketseat que visa levar os devs para u
 - [GIT](https://git-scm.com/)
 
 
-<!-- ## :artificial_satellite: Tecnologias
+ ## :artificial_satellite: Tecnologias
 
-Para desenvolver este projeto utilizamos as seguintes tecnologias:
+Para desenvolver este projeto utilizei as seguintes tecnologias:
 
-- ReactJS - Front-End
-    - React Router Dom
-
-    - Axios
-
-    - Leaflet
-
-    - MapBox
-
-- NodeJS - Back-End
-    - Express
-
-    - Knex
-
-    - Sqlite3
-
-- React Native - Mobile
-    - Expo
-
-    - Expo Fonts
-
-Projeto todo criado utilizando Typescript.
+- [Node.js](https://nodejs.org/en/)
+- [React](https://reactjs.org/)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
+- [Typescript](https://www.typescriptlang.org/)
 
 
+<!--
 ## :rocket: Utilização
 
 **[Acessar plataforma web](https://proffy-app.netlify.app/).**
